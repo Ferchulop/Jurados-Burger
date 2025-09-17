@@ -30,8 +30,9 @@ Elige el tipo de carne, añade tus ingredientes favoritos, controla el precio en
 
 ## Accesibilidad y experiencia del usuario:
 No solo se trata de funcionalidades: Jurado’s Burger también es inclusiva y sensorial.
-	•	Accesibilidad: optimizada para personas con discapacidad visual gracias al uso de accessibilityLabel y las buenas prácticas de VoiceOver.
-	•	Haptics (vibraciones hápticas): cada interacción clave ofrece una retroalimentación física mediante vibraciones, reforzando la inmersión y mejorando la usabilidad.
+
+- Accesibilidad: optimizada para personas con discapacidad visual gracias al uso de accessibilityLabel y las buenas prácticas de VoiceOver.
+- Haptics (vibraciones hápticas): cada interacción clave ofrece una retroalimentación física mediante vibraciones, reforzando la inmersión y mejorando la usabilidad.
 
 
 
