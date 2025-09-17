@@ -8,21 +8,24 @@
 - MVVM(Model-View-ViewModel)
   
 **Framework:**
-- SwiftUI | CloudKit | MapKit | PhotosUI  
----
-
+- SwiftUI | CloudKit | MapKit | PhotosUI
+  
 ## Funcionalidades:
 
 1️⃣ Explora el mapa en tiempo real:
+
 Descubre qué locales están más animados en tu ciudad y cuántas personas están disfrutando en cada Jurado’s Burger. Cuando encuentres tu favorito desde la ventana  “Locations”, solo toca el botón de localización y la app abrirá automáticamente la ruta en Apple Maps para que llegues como prefieras.
 
-2️⃣ Conecta con la comunidad: 
+2️⃣ Conecta con la comunidad:
+
  Desde la ventana “Locations” haz check-in y check-out en tu Jurado’s Burger favorito, deja que los demás sepan que estás allí y conoce quién más está compartiendo el momento. Consulta pág web, télefono y     perfiles con nombre, biografía y foto de cada persona y empieza la conversación antes de que llegue la burger.  
 
 3️⃣ Tu perfil, tu estilo: 
+
 Crea tu identidad dentro de Jurado’s Burger: foto, profesión, biografía y lo que quieras contar. Haz check-out cuando termines tu experiencia y muestra tu paso por la comunidad burger.
 
 4️⃣ Diseña tu burger perfecta: 
+
 Elige el tipo de carne, añade tus ingredientes favoritos, controla el precio en todo momento y llena tu carrito con la combinación que mejor te represente.
 
 
