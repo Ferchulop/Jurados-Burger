@@ -9,10 +9,11 @@
   
 **Framework:**
 - SwiftUI | CloudKit | MapKit | PhotosUI  
+---
 
 ## Funcionalidades:
 
-1️⃣ Explora el mapa en tiempo real: 
+1️⃣ Explora el mapa en tiempo real:
 Descubre qué locales están más animados en tu ciudad y cuántas personas están disfrutando en cada Jurado’s Burger. Cuando encuentres tu favorito desde la ventana  “Locations”, solo toca el botón de localización y la app abrirá automáticamente la ruta en Apple Maps para que llegues como prefieras.
 
 2️⃣ Conecta con la comunidad: 
