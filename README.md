@@ -8,7 +8,7 @@
 - MVVM(Model-View-ViewModel)
   
 **Framework:**
-- SwiftUI | CloudKit | MapKit | PhotosUI
+- SwiftUI | CloudKit | MapKit | PhotosUI | CoreHaptics
   
 ## Funcionalidades:
 
