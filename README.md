@@ -3,10 +3,8 @@
 ## Stack:
 **Lenguaje:**
 - Swift
-
 **Arquitectura:** 
-- MVVM(Model-View-ViewModel).
-  
+- MVVM(Model-View-ViewModel)  
 **Framework:**
 - SwiftUI | CloudKit | MapKit | PhotosUI  
 
