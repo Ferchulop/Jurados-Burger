@@ -1,3 +1,17 @@
+# Jurado´s Burger
+
+## Stack:
+**Lenguaje:**
+- Swift
+
+**Arquitectura:** 
+- MVVM(Model-View-ViewModel).
+  
+**Framework:**
+- SwiftUI | CloudKit | MapKit | PhotosUI  
+
+
+
 <div>
   <img src="https://github.com/user-attachments/assets/759b82ee-a9e9-496d-946d-7f34278c201f" width="500" height="500">
   <img src="https://github.com/user-attachments/assets/85b8ece4-08d5-49b3-bf63-8441fadc14b5" width="500" height="500">
