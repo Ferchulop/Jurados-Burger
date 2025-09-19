@@ -1,4 +1,5 @@
 # Jurado´s Burger
+Jurado’s Burger es una app en Swift + SwiftUI que permite explorar locales en tiempo real, conectar con la comunidad y personalizar tu hamburguesa favorita. Documentada con DocC y optimizada para accesibilidad y experiencia de usuario.
 
 ## Stack:
 **Lenguaje:**
