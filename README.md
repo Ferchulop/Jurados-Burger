@@ -1,6 +1,8 @@
 # Jurado´s Burger
 Jurado’s Burger es una app en Swift + SwiftUI que permite explorar locales en tiempo real, conectar con la comunidad y personalizar tu hamburguesa favorita. Documentada con DocC y optimizada para accesibilidad y experiencia de usuario.
 
+---
+
 ## Stack:
 **Lenguaje:**
 - Swift
@@ -10,6 +12,8 @@ Jurado’s Burger es una app en Swift + SwiftUI que permite explorar locales en 
   
 **Framework:**
 - SwiftUI | CloudKit | MapKit | PhotosUI | CoreHaptics
+
+---
   
 ## Funcionalidades:
 
@@ -29,18 +33,25 @@ Crea tu identidad dentro de Jurado’s Burger: foto, profesión, biografía y lo
 
 Elige el tipo de carne, añade tus ingredientes favoritos, controla el precio en todo momento y llena tu carrito con la combinación que mejor te represente.
 
+---
+
 ## Accesibilidad y experiencia del usuario:
 No solo se trata de funcionalidades: Jurado’s Burger también es inclusiva y sensorial.
 
 - **Accesibilidad:** optimizada para personas con discapacidad visual gracias al uso de accessibilityLabel y las buenas prácticas de VoiceOver.
 - **Haptics (vibraciones hápticas):** cada interacción clave ofrece una retroalimentación física mediante vibraciones, reforzando la inmersión y mejorando la usabilidad.
 
+---
+
 ## Documentación:
 Para mí, escribir buen código no es solo que funcione, sino que sea entendible, mantenible y escalable. Por eso documenté mi app con **DocC:** porque la calidad también está en cómo transmitimos conocimiento y hacemos sostenible el trabajo en equipo. Mi objetivo es construir bases sólidas que permitan avanzar con confianza, iterar rápido y sostener el producto en el tiempo.
 
-## Demostración en vídeo:
+---
 
+## Demostración en vídeo:
 [🎥 Ver demostración en YouTube](https://youtu.be/F1Vpc6EQMIo?si=7noyBFnNcdGPZZlu)
+
+---
 
 ## Capturas de pantalla:
 <div>
