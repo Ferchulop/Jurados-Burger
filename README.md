@@ -38,9 +38,10 @@ No solo se trata de funcionalidades: Jurado’s Burger también es inclusiva y s
 ## Documentación:
 Para mí, escribir buen código no es solo que funcione, sino que sea entendible, mantenible y escalable. Por eso documenté mi app con **DocC:** porque la calidad también está en cómo transmitimos conocimiento y hacemos sostenible el trabajo en equipo. Mi objetivo es construir bases sólidas que permitan avanzar con confianza, iterar rápido y sostener el producto en el tiempo.
 
+## Demostración en vídeo:
+[🎥 Ver demostración en YouTube](https://youtu.be/F1Vpc6EQMIo?si=7noyBFnNcdGPZZlu)
 
-
-
+## Capturas de pantalla:
 <div>
   <img src="https://github.com/user-attachments/assets/759b82ee-a9e9-496d-946d-7f34278c201f" width="500" height="500">
   <img src="https://github.com/user-attachments/assets/85b8ece4-08d5-49b3-bf63-8441fadc14b5" width="500" height="500">
