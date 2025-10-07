@@ -60,10 +60,16 @@ La app ha pasado por un proceso completo de QA y está disponible en **TestFligh
 ---
 
 ## Capturas de pantalla:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/759b82ee-a9e9-496d-946d-7f34278c201f" width="500">
-  <img src="https://github.com/user-attachments/assets/85b8ece4-08d5-49b3-bf63-8441fadc14b5" width="500">
-  <img src="https://github.com/user-attachments/assets/f84a41bd-8990-42f4-a85e-d38911148af0" width="500">
-  <img src="https://github.com/user-attachments/assets/f8951580-3ca7-4101-bc10-2b005ef5f47c" width="500"> 
-</p> 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/759b82ee-a9e9-496d-946d-7f34278c201f" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/85b8ece4-08d5-49b3-bf63-8441fadc14b5" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f84a41bd-8990-42f4-a85e-d38911148af0" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/f8951580-3ca7-4101-bc10-2b005ef5f47c" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
