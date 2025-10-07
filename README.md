@@ -47,6 +47,12 @@ No solo se trata de funcionalidades: Jurado’s Burger también es inclusiva y s
 Para mí, escribir buen código no es solo que funcione, sino que sea entendible, mantenible y escalable. Por eso documenté mi app con **DocC:** porque la calidad también está en cómo transmitimos conocimiento y hacemos sostenible el trabajo en equipo. Mi objetivo es construir bases sólidas que permitan avanzar con confianza, iterar rápido y sostener el producto en el tiempo.
 
 ---
+## Testing & Distribución:
+La app ha pasado por un proceso completo de QA y está disponible en **TestFlight** para testing en dispositivos reales. He gestionado el ciclo completo de distribución: desde la configuración de certificados y permisos hasta la subida a App Store Connect, priorizando validación de UX y comportamiento en producción.
+
+> *Actualmente en beta abierta. Disponible para recruiters/empresas bajo solicitud.*
+
+---
 
 ## Demostración en vídeo:
 [🎥 Ver demostración en YouTube](https://youtu.be/F1Vpc6EQMIo?si=7noyBFnNcdGPZZlu)
