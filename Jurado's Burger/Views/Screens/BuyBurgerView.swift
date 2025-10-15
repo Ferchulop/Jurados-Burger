@@ -153,7 +153,7 @@ struct BuyBurgerView: View {
                 
                 Spacer()
                 
-                Button("Add Burger - $\(viewModel.calculatePrice(), specifier: "%.2f")") {
+                Button("Add Burger - $\(viewModel.calculatePrice().formatted(.number.precision(.fractionLength(2))))") {
                     viewModel.addToCart()
                     HapticsManager.success()
                 }
@@ -163,7 +163,7 @@ struct BuyBurgerView: View {
                 .fontWeight(.semibold)
                 .clipShape(.capsule)
                 .shadow(radius: 5)
-                .accessibilityLabel("Add burger to cart, price: \(viewModel.calculatePrice(), specifier: "%.2f") dollars")
+                .accessibilityLabel("Add burger to cart, price: \(viewModel.calculatePrice().formatted(.number.precision(.fractionLength(2))))")
                 .accessibilityHint("Double tap to add to cart")
                 
             }
